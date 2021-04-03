@@ -1,0 +1,11 @@
+form {
+  text-align: center;
+}
+
+.Search .btn.btn-info {
+  background-color: lightgrey;
+  border: none;
+  font-size: 13px;
+  margin: 5px 3px;
+  padding: 5px 7px;
+}
