@@ -6,7 +6,7 @@ export default function Dictionary() {
 
     function search(event) {
         event.preventDefault();
-        alert(`Searching for definition of ${keyword}`);
+        alert(`Searching for definition of "${keyword}"`);
     }
 
     function handleKeywordChange(event) {
