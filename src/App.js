@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         Dictionary
       </header>
+
       <main>
         <Dictionary />
       </main>
@@ -16,9 +17,13 @@ function App() {
       Coded by{" "}
       <a href="https://github.com/hueyteng/dictionary-react-project" target="_blank" rel="noreferrer">
       Huey Teng Tay
-      </a>
-    </div>
+      </a>{" "} || {" "}
 
+      Background image by{" "}
+      <a href="https://www.freepik.com/rawpixel-com" target="_blank" rel="noreferrer">
+        rawpixel.com
+        </a>
+  </div>
       </div>
     </div>
       

@@ -30,7 +30,7 @@ export default function Dictionary() {
                 <div className="mb-3">
                     <input 
                         type="search" 
-                        size="35"
+                        size="50"
                         placeholder="Look up a word"
                         autocomplete="off"
                         onChange={handleKeywordChange} />
@@ -39,7 +39,9 @@ export default function Dictionary() {
                 </button>
                 </div>
             </form>
+            <div className="card">
             <Results results={results} />
+            </div>
         </div>
     );
 }

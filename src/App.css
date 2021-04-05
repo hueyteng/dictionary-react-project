@@ -1,10 +1,26 @@
+.App .container {
+  max-width: 500;
+}
+
 .App-header {
-  font-size: 50px;
-  margin: 20px auto;
+  font-family: "Kiwi Maru", serif;
+  font-size: 60px;
   text-align: center;
+  margin: 20px auto;
+}
+
+body {
+  background-image: url(workdesk.jpg);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  margin: 0 auto;
 }
 
 .Footer {
-  font-size: 13px;
+  font-family: "Kiwi Maru", serif;
+  font-size: 12px;
   text-align: center;
+  margin-bottom: 50px;
 }
