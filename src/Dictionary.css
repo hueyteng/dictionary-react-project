@@ -11,7 +11,7 @@
   box-shadow: 3px 3px 3px rgba(175, 175, 167, 0.5);
   border: 3px solid #0000;
   background: rgba(255, 255, 255, 0.7);
-  padding: 30px 20px;
+  padding: 30px 30px;
 }
 
 form {
@@ -20,7 +20,7 @@ form {
 }
 
 .Search .btn.btn-info {
-  background-color: lightgrey;
+  background-color: #c2c0bf;
   border: none;
   font-size: 13px;
   margin: 5px 3px;
