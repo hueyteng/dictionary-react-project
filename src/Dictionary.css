@@ -14,15 +14,11 @@
   padding: 30px 30px;
 }
 
-form {
-  text-align: center;
-  margin: 20px 20px;
-}
-
-.Search .btn.btn-info {
-  background-color: #c2c0bf;
-  border: none;
-  font-size: 13px;
-  margin: 5px 3px;
-  padding: 5px 7px;
+.Search input {
+  border-radius: 8px;
+  padding: 10px 20px;
+  display: block;
+  border: 1px solid #c2c0bf;
+  width: 45%;
+  margin: 0 auto;
 }
