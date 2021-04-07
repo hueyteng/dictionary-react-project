@@ -29,7 +29,7 @@ export default function Dictionary() {
             <form onSubmit={search}>
                     <input 
                         type="search" 
-                        placeholder="Look up a word"
+                        placeholder="Enter a word to look it up"
                         autocomplete="off"
                         onChange={handleKeywordChange} 
                     />

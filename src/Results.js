@@ -16,6 +16,7 @@ export default function Results(props) {
             );
             })}
         <br />
+        <br />
         {props.results.meanings.map(function (meaning, index) {
             return ( 
             <div key={index}>

@@ -4,7 +4,7 @@
 
 .App-header {
   color: #3f3120;
-  font-family: "Kiwi Maru", serif;
+  font-family: "Quicksand", sans-serif;
   font-size: 60px;
   text-align: center;
   margin: 20px auto;
@@ -16,7 +16,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-size: 15px;
   color: #666463;
   margin: 0 auto;
 }
@@ -26,8 +27,13 @@ h2 {
 }
 
 h3 {
-  font-size: 25px;
+  font-size: 24px;
   font-style: italic;
+  font-weight: bold;
+}
+
+.Phonetics {
+  margin: 15px 0 3px 0;
 }
 
 .Phonetics i:hover {
@@ -36,7 +42,8 @@ h3 {
 }
 
 .Meaning .Example {
-  color: #cf7b54;
+  color: #6a8993;
+  margin: 10px auto;
 }
 
 .Meaning .Example:first-letter {
@@ -55,7 +62,7 @@ h3 {
 }
 
 .synonyms {
-  background-color: rgba(231, 226, 222, 0.7);
+  background-color: rgba(207, 123, 84, 0.3);
   border: 1px solid transparent;
   border-radius: 3px;
   display: inline-block;

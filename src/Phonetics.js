@@ -14,5 +14,6 @@ export default function Phonetics(props) {
             <i class="fas fa-volume-up" onClick={playAudio}></i>
             
         </div>
+         
     );
 }
