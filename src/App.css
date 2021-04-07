@@ -38,6 +38,13 @@ h3 {
   text-transform: capitalize;
 }
 
+.Phonetics i {
+  color: #5b727a;
+  font-size: 25px;
+  position: absolute;
+  margin: 0px 10px;
+}
+
 .Synonyms {
   font-size: smaller;
 }
