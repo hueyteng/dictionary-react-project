@@ -30,6 +30,11 @@ h3 {
   font-style: italic;
 }
 
+.Phonetics i:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
 .Meaning .Example {
   color: #cf7b54;
 }
