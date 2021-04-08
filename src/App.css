@@ -36,6 +36,14 @@ h3 {
   margin: 15px 0 3px 0;
 }
 
+.Phonetics i {
+  color: #5b727a;
+  font-size: 25px;
+  position: absolute;
+  margin: 0px 10px;
+  transition: all 150ms ease-in-out;
+}
+
 .Phonetics i:hover {
   cursor: pointer;
   opacity: 0.8;
@@ -48,13 +56,6 @@ h3 {
 
 .Meaning .Example:first-letter {
   text-transform: capitalize;
-}
-
-.Phonetics i {
-  color: #5b727a;
-  font-size: 25px;
-  position: absolute;
-  margin: 0px 10px;
 }
 
 .Synonyms {
