@@ -23,3 +23,9 @@
   margin: 0 auto;
   outline: none;
 }
+
+@media screen and (max-width: 1200px) {
+  .Search input {
+    min-width: 250px;
+  }
+}
