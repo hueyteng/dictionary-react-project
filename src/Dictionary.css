@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 1200px) {
   .Dictionary .container {
-    min-width: 800px;
+    min-width: 600px;
   }
 }
 
@@ -32,6 +32,6 @@
 
 @media screen and (max-width: 1200px) {
   .Search input {
-    min-width: 600px;
+    min-width: 500px;
   }
 }
