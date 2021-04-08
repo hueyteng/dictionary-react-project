@@ -50,7 +50,9 @@ h3 {
 }
 
 .Meaning .Example {
-  color: #6a8993;
+  color: #4e656d;
+  font-family: "Arapey", serif;
+  font-size: 18px;
   margin: 10px auto;
 }
 
