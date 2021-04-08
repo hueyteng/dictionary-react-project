@@ -10,7 +10,7 @@ function App() {
       </header>
 
       <main>
-        <Dictionary defaultKeyword="mountains" />
+        <Dictionary defaultKeyword="summit" />
       </main>
       
     <div className="Footer">
