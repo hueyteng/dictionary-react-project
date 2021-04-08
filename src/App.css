@@ -73,6 +73,27 @@ h3 {
   padding: 5px 10px;
 }
 
+.Photos {
+  display: block;
+  margin: 20px auto;
+  width: 45%;
+  min-width: 500px;
+  border-radius: 35px;
+  box-shadow: 3px 3px 3px rgba(175, 175, 167, 0.5);
+  border: 3px solid #0000;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 30px 30px;
+}
+
+.Photos img {
+  margin-bottom: 20px;
+  transition: all 150ms ease-in-out;
+}
+
+.Photos .HoverImage:hover img {
+  opacity: 0.7;
+}
+
 .Footer {
   font-family: "Quicksand", sans-serif;
   font-size: 12px;
