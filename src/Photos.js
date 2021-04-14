@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Photos(props) {
-    if (props.photos) {
+    if (props.photos && props.photos.length > 0) {
         return (
             <section className="Photos">
                 <div className="row">
