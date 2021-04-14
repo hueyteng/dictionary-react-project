@@ -9,6 +9,7 @@
   margin: 20px auto;
   width: 45%;
   min-width: 500px;
+  max-width: 500px;
   border-radius: 25px;
   box-shadow: 3px 3px 3px rgba(175, 175, 167, 0.5);
   border: 3px solid #0000;
