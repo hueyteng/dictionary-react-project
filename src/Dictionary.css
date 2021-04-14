@@ -1,5 +1,5 @@
 @media only screen and (max-width: 500px) {
-  .Dictionary {
+  .Dictionary .container {
     width: 80%;
   }
 }
